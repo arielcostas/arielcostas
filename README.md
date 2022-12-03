@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Ariel</h1>
 <h3 align="center">Desarrollador de aplicaciones multiplataforma</h3>
 
-- 🔭 Actualmente estoy estudiando Ciclo Superior de Desarrollo de Aplicaicones Multiplataforma.
+- 🔭 Actualmente estoy estudiando Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 
 - 👨‍💻 Conoce más sobre mis proyectos en [costas.dev](https://costas.dev), o lee mis artículos en [blog.costas.dev](https://blog.costas.dev)
 
