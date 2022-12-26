@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ariel</h1>
 <h3 align="center">Cross-platform Application Developer</h3>
 
-- 🔭 Actualmente estoy estudiando Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
+🇪🇸 [También disponible en Español](https://github.com/arielcostas/arielcostas/blob/main/README.md)
+
+- 🔭 Currently studying Superior Professional Training in Cross-platform Application Developer[^1]
 
 - 👨‍💻 Feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/ariel-costas/)
 
 - 📫 You can contact me on **arielcostas AT gmail DOT com**
 
-### Herramientas y tecnologías que manejo
+### Tools and tech stack
 
-#### Programación
+#### Programming
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -44,3 +46,5 @@
   
   <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
 </p>
+
+[^1]: Translation note: Vocational formation, in spanish, Ciclo Superior
