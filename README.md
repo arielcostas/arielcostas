@@ -1,17 +1,11 @@
-<h1 align="center">Hola 👋, Soy Ariel</h1>
+<h1 align="center">Hola 👋, soy Ariel</h1>
 <h3 align="center">Desarrollador de aplicaciones multiplataforma</h3>
 
 - 🔭 Actualmente estoy estudiando Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
 
-- 👨‍💻 Conoce más sobre mis proyectos en [costas.dev](https://costas.dev), o lee mis artículos en [blog.costas.dev](https://blog.costas.dev)
+- 👨‍💻 Visítame en mi [perfil de LinkedIn](https://www.linkedin.com/in/ariel-costas/)
 
 - 📫 Puedes contactar conmigo en **arielcostas ARROBA gmail PUNTO com**
-
-<h3 align="left">También estoy en:</h3>
-<p align="left">
-<a href="https://mastodon.gal/ariel" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" alt="300835" height="30" width="40" /></a>
-<a href="https://es.stackoverflow.com/users/300835/ariel-costas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="300835" height="30" width="40" /></a>
-</p>
 
 ### Herramientas y tecnologías que manejo
 
