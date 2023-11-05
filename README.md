@@ -1,12 +1,17 @@
 <h1 align="center">Hola 👋, soy Ariel</h1>
 <h2 align="center">Desarrollador de aplicaciones multiplataforma</h2>
 
-Soy un desarrollador de aplicaciones multiplataforma con varios años de experiencia en el sector. Me apasiona crear soluciones innovadoras y eficientes que se adapten a las necesidades de los usuarios.
+Soy un desarrollador de aplicaciones multiplataforma con tres años de experiencia en el sector. Me gusta desarrollar software innovador y eficiente que se adapten a las necesidades del usuario. Me centro también en la experiencia de usuario (UX) y el diseño, ya que considero que de poco vale una aplicación que funciona bien pero es muy complicada de utilizar y desagradable a la vista.
 
-Tengo conocimientos de lenguajes como C# (.NET), Java y Python, así como en herramientas de DevOps y Cloud.
+Tengo conocimientos de lenguajes como C# (.NET), PHP, Python y Java así como en herramientas de DevOps y Cloud. También cuento con experiencia en bases de datos MySQL, SQL Server y MongoDB. Estoy certificado por Microsoft en Azure, y en metodología DevOps con Azure DevOps y GitHub.
 
-- 🔭 Actualmente estoy estudiando Ciclo Superior de Desarrollo de Aplicaciones Multiplataforma.
+<a href="https://learn.microsoft.com/gl-es/users/ariel-costas/transcript/vn32b8j6m2zwyn7">
+	<img width="96" height="96" src="https://costas.dev/wp-content/uploads/2023/11/lrn_azure-developer-associate.png" />
+	<img width="96" height="96" src="https://costas.dev/wp-content/uploads/2023/11/rrZgp-e1698870156599.png" />
+</a>
+
+- 🔭 Trabajo en Estelaria Solutions, desarrollando una aplicación SaaS en PHP y Symfony, almacenando datos en MongoDB y alojando en Google Cloud.
 
 - 👨‍💻 Visítame en mi [perfil de LinkedIn](https://www.linkedin.com/in/ariel-costas/)
 
-- 📫 Puedes contactar conmigo en **arielcostas ARROBA gmail PUNTO com**
+- 📫 Puedes contactar conmigo en **ariel ARROBA costas PUNTO dev**
