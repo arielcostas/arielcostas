@@ -1,17 +1,21 @@
-<h1 align="center">Hola 👋, soy Ariel</h1>
-<h2 align="center">Desarrollador de aplicaciones multiplataforma</h2>
+# Hola 👋, soy Ariel
 
-Soy un desarrollador de aplicaciones multiplataforma con tres años de experiencia en el sector. Me gusta desarrollar software innovador y eficiente que se adapten a las necesidades del usuario. Me centro también en la experiencia de usuario (UX) y el diseño, ya que considero que de poco vale una aplicación que funciona bien pero es muy complicada de utilizar y desagradable a la vista.
+## Desarrollador de aplicaciones multiplataforma
 
-Tengo conocimientos de lenguajes como C# (.NET), PHP, Python y Java así como en herramientas de DevOps y Cloud. También cuento con experiencia en bases de datos MySQL, SQL Server y MongoDB. Estoy certificado por Microsoft en Azure, y en metodología DevOps con Azure DevOps y GitHub.
+Soy un desarrollador de aplicaciones multiplataforma con tres años de experiencia en el sector. Mi enfoque está en desarrollar software innovador y eficiente que se adapte a las necesidades del usuario. Además, considero que la experiencia de usuario (UX) y el diseño son fundamentales para el éxito de una aplicación.
 
-<a href="https://learn.microsoft.com/gl-es/users/ariel-costas/transcript/vn32b8j6m2zwyn7">
-	<img width="96" height="96" src="https://costas.dev/img/az204.png" />
-	<img width="96" height="96" src="https://costas.dev/img/az400.png" />
-</a>
+## Conocimientos y habilidades
 
-- 🔭 Trabajo en Estelaria Solutions, desarrollando una aplicación SaaS en PHP y Symfony, utilizando MongoDB y alojando en Google Cloud.
+- Lenguajes: PHP, C# (.NET) Python.
+- Herramientas de DevOps y Azure.
+- Experiencia en bases de datos: MongoDB, MySQL, SQL Server y Azure CosmosDB.
+- Certificaciones: Cuento con las certificaciones "Azure Developer Associate" (AZ-204) y "Azure DevOps Engineer Expert" (AZ-400)
 
-- 👨‍💻 Visítame en [mi sitio web personal](https://costas.dev) o en mi [perfil de LinkedIn](https://www.linkedin.com/in/ariel-costas/)
+## Proyectos actuales
 
-- 📫 Puedes contactar conmigo en **ariel ARROBA costas PUNTO dev**
+Actualmente trabajo en Estelaria Solutions, donde desarrollo una aplicación SaaS en PHP y Symfony. Utilizo MongoDB y alojo la aplicación en Amazon AWS.
+
+## Contacto
+
+- Visita mi [sitio web personal](https://www.costas.dev) o mi [perfil de LinkedIn](https://linkedin.com/in/ariel-costas).
+- Puedes contactarme en **ariel ARROBA costas PUNTO dev**.
