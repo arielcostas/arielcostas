@@ -1,21 +1,22 @@
-# Hola 👋, soy Ariel
+# Software Engineer | PHP by day, .NET by night
 
-## Desarrollador de aplicaciones multiplataforma
+Passionate about building efficient, scalable, and user-centric applications. UX and design are key to a successful product.
 
-Soy un desarrollador de aplicaciones multiplataforma con tres años de experiencia en el sector. Mi enfoque está en desarrollar software innovador y eficiente que se adapte a las necesidades del usuario. Además, considero que la experiencia de usuario (UX) y el diseño son fundamentales para el éxito de una aplicación.
+## Skills & Expertise
 
-## Conocimientos y habilidades
+* Languages: PHP, C# (.NET), Python
+* DevOps & Cloud: Azure, AWS, CI/CD, and containerization
+* Databases: SQL & NoSQL solutions
+* Certifications: Microsoft Certified Azure Developer Associate (AZ-204) & Azure DevOps Engineer Expert (AZ-400)
 
-- Lenguajes: PHP, C# (.NET) Python.
-- Herramientas de DevOps y Azure.
-- Experiencia en bases de datos: MongoDB, MySQL, SQL Server y Azure CosmosDB.
-- Certificaciones: Cuento con las certificaciones "Azure Developer Associate" (AZ-204) y "Azure DevOps Engineer Expert" (AZ-400)
+## What I'm Working On
 
-## Proyectos actuales
+By day, developing WiLake, a billing & metering system, and supporting VR and AI integration projects for sister companies at Estelaria Solutions. My focus is on cloud infrastructure (mainly AWS), scalable databases, and backend architecture.
 
-Actualmente trabajo en Estelaria Solutions, donde desarrollo una aplicación SaaS en PHP y Symfony. Utilizo MongoDB y alojo la aplicación en Amazon AWS.
+By night, I tinker with [local mobility APIs](https://github.com/arielcostas/urbanovigo-web), maintain Vigo360, and occasionally contribute to open-source projects.
 
-## Contacto
+## Contact
 
-- Visita mi [sitio web personal](https://www.costas.dev) o mi [perfil de LinkedIn](https://linkedin.com/in/ariel-costas).
-- Puedes contactarme en **ariel ARROBA costas PUNTO dev**.
+Visit my [personal website](https://costas.dev) or [connect on LinkedIn](https://www.linkedin.com/in/ariel-costas/). Alternatively, reach me via email: ariel AT costas DOT dev.
+
+P.S. I also offer occasional consulting services, including WordPress maintenance/optimisation and software development; if you're interested in any of those, feel free to reach out!
