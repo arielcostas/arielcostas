@@ -1,24 +1,54 @@
-# Software Engineer | .NET and PHP
+# 👋 Hi, I'm Ariel Costas
 
-Passionate about building efficient, scalable, and user-centric applications. Making life easier for the users is what really matters.
+**Software Engineer** | Specializing in .NET, PHP, Python, and Cloud Solutions
 
-## Skills & Expertise
+Passionate about building efficient, scalable, and user-centric applications. Making life easier for users is always my top priority.
 
-* Languages: C# (.NET), PHP and Python
-* DevOps & Cloud: GitHub, Azure, AWS, Linux and containerisation
-* Databases: MySQL mainly, some SQLite and MongoDB too
-* Certifications:
-  * Microsoft Certified Azure Developer Associate (AZ-204)
-  * Azure DevOps Engineer Expert (AZ-400)
+---
 
-## What I'm Working On
+## 💡 What I'm Working On
 
-By day, developing WiLake, a public Wi-Fi management solution, and supporting VR and AI integration projects for sister companies at Estelaria Solutions. My focus is on cloud infrastructure (mainly AWS), scalable databases, and backend architecture.
+**By day:**  
+- Developing **WiLake**, a public Wi-Fi management platform  
+- Supporting VR and AI integration projects for sister companies at **Estelaria Solutions**  
+- Focused on cloud infrastructure (mainly AWS), scalable databases, and backend architecture
 
-By night, I tinker with [local mobility APIs](https://github.com/arielcostas/urbanovigo-web), maintain Vigo360, and occasionally contribute to open-source projects. Also working on a new product to help spanish e-commerce sellers learn more about their sales.
+**By night:**  
+- Tinkering with [local mobility APIs](https://github.com/arielcostas/urbanovigo-web)  
+- Maintaining **Vigo360**  
+- Occasionally contributing to open-source projects  
+- Building a new product for Spanish e-commerce sellers to better understand their sales
 
-## Contact
+---
 
-Visit my [personal website](https://costas.dev) or [connect on LinkedIn](https://www.linkedin.com/in/ariel-costas/). Alternatively, reach me via email: ariel AT costas DOT dev.
+## 🛠 Skills & Expertise
 
-P.S. I also offer consulting services, including WordPress maintenance/optimisation and software development; if you're interested in any of those, feel free to reach out!
+- **Languages:** C# (.NET), PHP, Python
+- **DevOps & Cloud:** Azure (Certified), AWS, GitHub Actions, Linux administration, containerization
+- **Databases:** MySQL (mainly), SQLite, MongoDB
+
+---
+
+## 📜 Certifications
+
+- Microsoft Certified: Azure Developer Associate (AZ-204)
+- Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
+- EF SET C2 (English Proficiency)
+
+---
+
+## 🎓 Education
+
+- Ciclo Superior at IES de Teis
+
+---
+
+## 📫 Contact
+
+- Personal Website: [costas.dev](https://www.costas.dev)
+- LinkedIn: [ariel-costas](https://www.linkedin.com/in/ariel-costas/)
+- Email: ariel AT costas DOT dev
+
+---
+
+*I also offer consulting services, including WordPress maintenance/optimisation and software development. If you're interested, feel free to reach out!*
